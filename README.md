@@ -1,0 +1,2 @@
+# Gang of Four Design Patterns in Ruby
+My completed project code for the Tuts+ tutorial, [Gang of Four Design Patterns in Ruby](https://code.tutsplus.com/courses/gang-of-four-design-patterns-in-ruby) by José Mota. It probably doesn't differ too much from the code in the [official Tuts+ repo](https://github.com/tutsplus/gof-design-patterns-ruby). Instead of symlinking to the Rakefile and test_helper.rb in the root directory, I've duplicated them locally in their respective subfolders: i.e., *pattern*/Rakefile and *pattern*/test/test_helper.rb.
